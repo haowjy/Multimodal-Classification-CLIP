@@ -1,0 +1,1 @@
+this is the folder where the image data should be (*.jpg)

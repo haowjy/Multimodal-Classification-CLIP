@@ -133,3 +133,4 @@ dmypy.json
 data/*.jpg
 data/*.png
 models/*/*.pth
+models/*/*/*.pth

@@ -134,3 +134,6 @@ data/*.jpg
 data/*.png
 models/*/*.pth
 models/*/*/*.pth
+
+models/*/*.pkl
+models/*/*/*.pkl

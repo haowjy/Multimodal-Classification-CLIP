@@ -1,3 +1,5 @@
+Contributor Jimmy Yao, Yezeyuan Zheng
+
 unzip all data into `/data` folder
 ```sh
 mkdir data

@@ -3,7 +3,7 @@
 by Jimmy Yao and Yuxuan Zhang
 
 
-This is an independent group project for the course [CSC 298: Deep Learning](https://www.cs.rochester.edu/~cxu22/t/298F21/). This repo contains the code for our project.
+This is an independent group project for the course [CSC 298: Deep Learning](https://www.cs.rochester.edu/~cxu22/t/298F22/). This repo contains the code for our project.
 
 ## Project Description
 

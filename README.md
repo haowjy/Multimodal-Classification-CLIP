@@ -1,5 +1,4 @@
 # Exploration of Multimodal Text and Image Classification
----
 
 by Jimmy Yao and Yuxuan Zhang
 

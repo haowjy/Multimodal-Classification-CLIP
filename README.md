@@ -1,6 +1,6 @@
 # Exploration of Multimodal Text and Image Classification
 
-by Jimmy Yao and Yuxuan Zhang
+by Jimmy Yao and Yezeyuan Zheng
 
 
 This is an independent group project for the course [CSC 298: Deep Learning](https://www.cs.rochester.edu/~cxu22/t/298F22/). This repo contains the code for our project.
